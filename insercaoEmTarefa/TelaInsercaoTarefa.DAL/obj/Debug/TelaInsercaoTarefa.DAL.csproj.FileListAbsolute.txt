@@ -1,0 +1,17 @@
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DAL.dll
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DAL.pdb
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DTO.dll
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DTO.pdb
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DAL\obj\Debug\TelaInsercaoTarefa.DAL.csprojAssemblyReference.cache
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DAL\obj\Debug\TelaInsercaoTarefa.DAL.csproj.CopyComplete
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DAL\obj\Debug\TelaInsercaoTarefa.DAL.dll
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DAL\obj\Debug\TelaInsercaoTarefa.DAL.pdb
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DAL.dll.config
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DAL.dll
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DAL.pdb
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DTO.dll
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\bin\Debug\TelaInsercaoTarefa.DTO.pdb
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\obj\Debug\TelaInsercaoTarefa.DAL.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\obj\Debug\TelaInsercaoTarefa.DAL.csproj.CopyComplete
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\obj\Debug\TelaInsercaoTarefa.DAL.dll
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DAL\obj\Debug\TelaInsercaoTarefa.DAL.pdb

@@ -1,0 +1,9 @@
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\bin\Debug\TelaInsercaoTarefa.exe.config
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\bin\Debug\TelaInsercaoTarefa.exe
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\bin\Debug\TelaInsercaoTarefa.pdb
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\obj\Debug\TelaInsercaoTarefa.csprojAssemblyReference.cache
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\obj\Debug\TelaInsercaoTarefa.frmInsertTarefa.resources
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\obj\Debug\TelaInsercaoTarefa.Properties.Resources.resources
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\obj\Debug\TelaInsercaoTarefa.csproj.GenerateResource.cache
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\obj\Debug\TelaInsercaoTarefa.exe
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa\obj\Debug\TelaInsercaoTarefa.pdb

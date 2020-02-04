@@ -1,0 +1,10 @@
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DTO\bin\Debug\TelaInsercaoTarefa.DTO.dll
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DTO\bin\Debug\TelaInsercaoTarefa.DTO.pdb
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DTO\obj\Debug\TelaInsercaoTarefa.DTO.csprojAssemblyReference.cache
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DTO\obj\Debug\TelaInsercaoTarefa.DTO.dll
+C:\Users\lucas.scheunemann\source\repos\TelaInsercaoTarefa.DTO\obj\Debug\TelaInsercaoTarefa.DTO.pdb
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DTO\bin\Debug\TelaInsercaoTarefa.DTO.dll
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DTO\bin\Debug\TelaInsercaoTarefa.DTO.pdb
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DTO\obj\Debug\TelaInsercaoTarefa.DTO.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DTO\obj\Debug\TelaInsercaoTarefa.DTO.dll
+C:\Users\lucas\Documents\GitHub\insercaoEmTarefa\TelaInsercaoTarefa.DTO\obj\Debug\TelaInsercaoTarefa.DTO.pdb
